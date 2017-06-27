@@ -1,5 +1,5 @@
 # osdev-playground
-Playground for everyone how need some ready environment to start experiments with OS development.
+Playground for everyone who need some ready environment to start experiments with OS development.
 
 Just call "vagrant up" from vagrant/ directory.
 Use "vagrant ssh" to connect.
